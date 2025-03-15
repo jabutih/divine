@@ -1,2 +1,2 @@
-# Project <i>Divus</i>
+# Project <i>Divine</i>
 ...
